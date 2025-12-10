@@ -2,6 +2,8 @@
 
 An educational tool that teaches programming concepts through physical blocks and a programmable car. Children arrange programming blocks (like MOV, LOOP, IF) on a grid board to control a car that can do various tasks.
 
+The project is based on [this](https://repository.najah.edu/items/c4a4bc66-e761-4d59-92e1-6153a912db7d) undergraduate thesis at An-Najah National University
+
 ## Features
 
 ### 1. Programming Grid
