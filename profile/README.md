@@ -2,7 +2,18 @@
 
 An educational tool that teaches programming concepts through physical blocks and a programmable car. Children arrange programming blocks (like MOV, LOOP, IF) on a grid board to control a car that can do various tasks.
 
-The project is based on [this](https://repository.najah.edu/items/c4a4bc66-e761-4d59-92e1-6153a912db7d) undergraduate thesis at An-Najah National University
+Research reference: [link](https://repository.najah.edu/items/c4a4bc66-e761-4d59-92e1-6153a912db7d) - undergraduate thesis at An-Najah National University
+
+Research paper: [link](https://github.com/Tinker-Blocks-Project/tinker-blocks-latex/blob/main/main.pdf)
+
+## Demo Video
+
+[This](https://drive.google.com/file/d/1FGX5BC5xgtpveDMa_u0GyLRGwYE9JV24/view?usp=sharing) link
+
+## Pictures for the finished project
+
+<img width="1076" height="574" alt="image" src="https://github.com/user-attachments/assets/5870dfb0-a340-4ba5-bfb9-3ac4bf9ef40e" />
+<img width="1085" height="641" alt="image" src="https://github.com/user-attachments/assets/9f432182-62c9-4213-b2c6-a16083fdc6fb" />
 
 ## Features
 
@@ -81,13 +92,3 @@ This is the physical grid where you place the programming blocks
 ### Use Case Flow
 
 ![Use Case Flow](../assets/UseCaseFlow.jpg)
-
-
-## Pictures for the finished project
-
-<img width="1076" height="574" alt="image" src="https://github.com/user-attachments/assets/5870dfb0-a340-4ba5-bfb9-3ac4bf9ef40e" />
-<img width="1085" height="641" alt="image" src="https://github.com/user-attachments/assets/9f432182-62c9-4213-b2c6-a16083fdc6fb" />
-
-## Demo Video
-
-[This](https://drive.google.com/file/d/1FGX5BC5xgtpveDMa_u0GyLRGwYE9JV24/view?usp=sharing) link
