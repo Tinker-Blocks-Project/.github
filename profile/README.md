@@ -8,7 +8,7 @@ Research paper: [link](https://github.com/Tinker-Blocks-Project/tinker-blocks-la
 
 ## Demo Video
 
-[This](https://drive.google.com/file/d/1FGX5BC5xgtpveDMa_u0GyLRGwYE9JV24/view?usp=sharing) link
+https://github.com/user-attachments/assets/b3411683-81de-4d38-96ee-6c0ab133ef11
 
 ## Pictures for the finished project
 
